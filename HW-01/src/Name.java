@@ -4,7 +4,7 @@ public class Name {
             System.out.println("My name is lily");
         }
         for (int i = 0; i < 3 ; i++) {
-            System.out.println("Hello");
+            System.out.println();
         }
     }
 }
